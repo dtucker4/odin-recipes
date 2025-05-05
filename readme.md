@@ -1,0 +1,1 @@
+This is an early lesson in the Odin Project designed to create a bare bones HTML website to get used to working with HTML, git, and linux.
